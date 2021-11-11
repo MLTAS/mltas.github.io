@@ -253,12 +253,12 @@ document.addEventListener("DOMContentLoaded", function (event) {
     <div class="container">
         <div class="row">
                 <div class="col-md-4">
-                    <h4>About us</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet consectetur dolor</p>
+                    <h4>Contact Us</h4>
+                    <p>sn.tran@utas.edu.au</p>
                 </div>
-
+		<!--
                 <div class="col-md-4">
-                    <h4>Do you like ? Share this !</h4>
+                  <h4>Social Medi</h4>
                     <div>
                         <p>
                             <a href="https://www.twitter.com" class="fa-icon" title="">
@@ -277,7 +277,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
                     </div>
 
                 </div>
-
+		
                 <div class="col-md-4">
                         
                     <h4>Subscribe to newsletter</h4>
@@ -293,6 +293,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
                         
                     </div>
                 </div>
+		-->
         </div>
     </div>
 </footer>
