@@ -38,10 +38,10 @@
       <div class="navbar-collapse">
         <button type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></button>
         <ul class="nav navbar-nav navbar-right">
-            <li><a href="./index.html#contact-section-container" title="" class="anchor-link">Contact Us</a></li>
+            <li><a href="https://groups.google.com/g/machine-learning-tasmania" title="" class="anchor-link">Join Us</a></li>
             <li>
                 <p>
-                    <a href="./components.html" class="btn btn-default navbar-btn" >Components</a>
+                    <a href="./components.html" class="btn btn-default navbar-btn" >Events</a>
                 </p>
             </li>
 
@@ -61,14 +61,15 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                <h1>The Factory</h1>
-                <p class="">THE BEST PLACE FOR WORK TOGETHER</p>
-                <a href="#contact-section-container" class="btn btn-primary btn-lg anchor-link" title="">Get in touch</a>
+                <h1>Machine Learing Tasmania</h1>
+                <p class=""> CONNECTING RESEARCH AND BUSINESS IN TASSIE</p>
+                <a href="https://groups.google.com/g/machine-learning-tasmania" class="btn btn-primary btn-lg anchor-link" title="">Join Us</a>
             </div>
         </div>
     </div>
 </div>
 
+<!--
 <div class="section-container">
     <div class="container">
         <div class="row">
@@ -238,7 +239,7 @@
     </div>
 </div>
 
-
+-->
 <script>
 document.addEventListener("DOMContentLoaded", function (event) {
     
