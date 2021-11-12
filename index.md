@@ -1,7 +1,7 @@
 ---
 title: About Us
 feature_text: |
-  ## Machine Learning Tasmania
+  ## <span style="color:white">Machine Learning Tasmania</span>
   For those who like machine learning in Tassie
 feature_image: "/assets/cradle_mnt.jpeg"
 excerpt: "Under Construction."
