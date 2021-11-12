@@ -3,7 +3,7 @@ title: About Us
 feature_text: |
   ## Machine Learning Tasmania
   For those who like machine learning in Tassie
-feature_image: "./assets/grindelwald.jpg"
+feature_image: "grindelwald.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
