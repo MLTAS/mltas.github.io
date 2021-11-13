@@ -1,0 +1,122 @@
+---
+title: AAPP/IMAS machine learning workshop
+categories:
+- General
+excerpt: |
+  Not sure what it is.
+--feature_text: |
+--  ## The Pot Still
+--  The modern pot still is a descendant of the alembic, an earlier distillation device
+--feature_image: "https://picsum.photos/2560/600?image=733"
+--image: "https://picsum.photos/2560/600?image=733"
+---
+
+The AAPP/IMAS machine learning workshop is next Monday and Tuesday (30-31 August 2021)! The workshop will be running out of the Aurora Lecture Theatre at IMAS Salamanca in Hobart as well as virtually. If you’ve registered as a local then please attend in person to the sessions you’re interested in since we have catered for you! For those who are remote, the following zoom link can be used to connect in to any of the sessions on either of the two days:
+
+https://utas.zoom.us/j/5014621832
+
+ For some of the interactive workshop sessions, please take a note of the requirements if you want to join in the coding fun. Three of them are designed to be run in a Google Colaboratory notebook which can be accessed for free with a Google account (https://colab.research.google.com/notebooks/intro.ipynb). The other one requires any method of running R, but the easiest is a local installation of RStudio or a free sign in to RStudio Cloud (https://rstudio.cloud/) if you don’t want to install anything. We can help out before or at the beginning of the sessions if anyone has any problems.
+
+ 
+
+If you have any questions, please contact Marc Mallet (marc.mallet@utas.edu.au) or Alex Fraser (alex.fraser@utas.edu.au).
+
+ 
+
+Monday 30 August 2021
+
+Time
+
+Session
+
+Requirements
+
+09:30 - 09:40
+
+Alex Fraser (AAPP) & Marc Mallet (AAPP): Introduction and overview
+
+None!
+
+09:40 - 12:10
+
+(Seminar)
+
+Son Tran (UTAS): Artificial Neural Networks, and their applications to research
+
+None!
+
+12:10 - 13:00
+
+Lunch – provided!
+
+13:00 - 14:15
+
+(Workshop)
+
+Sonya Fiddes (AAPP): Intro to clustering: hierarchical and non-hierarchical method. We’ll cover how to perform and evaluate k-means clustering in Python, featuring cute penguins from the Palmer Penguin dataset
+
+A google account to sign into Google Colaboratory. Workshop material:
+
+https://github.com/sfiddes/teaching
+
+14:15 - 14:30
+
+Afternoon tea – provided!
+
+14:30 - 16:30
+
+(Workshop)
+
+Danielle Udy (IMAS): Intro to Self-Organising Maps: example application to group weather systems. We’ll cover how to compute, evaluate and visualise self-organising maps using R. We’ll also touch on how to run R in Google Colab and link up to a Google Drive.
+
+A google account to sign into Google Colaboratory. Workshop material:
+
+https://github.com/dgudy91/2021_AAPP_ML_workshop
+
+Some example data will need to be downloaded. Instructions will be outlined in the github link
+
+Tuesday 31 August 2021
+
+09:30 - 11:30
+
+(Workshop)
+
+Marc Mallet (AAPP): Modelling and machine learning in R with tidymodels. We’ll cover how to easily train, test, fit, evaluate and interpret a range of models using the tidymodels set of packages in R. Palmer Penguins will be our test subjects. This is designed for anyone with any (or no) R or machine learning experience.
+
+RStudio installed locally or RStudio Cloud account (free). Other IDEs (e.g. Jupyter or Google Colab) are also welcome. Workshop material:
+
+https://github.com/marc-mallet/imas-tidymodels
+
+11:30 - 12:00
+
+(Seminar)
+
+Mark Gray (Pawsey): How the Pawsey Institute architecture can be used for traditional high performance computing and new ML/AI workloads at scale.
+
+None!
+
+12:00 - 12:45
+
+Lunch – provided!
+
+12:45 - 14:30
+
+(Workshop)
+
+Charley Gros (IMAS): Dealing with image analysis? Let the computer do the heavy lifting. We’ll cover how to do this in Python using PyTorch and answer the question “Where’s Wally?”
+
+A google account to sign into Google Colaboratory. Workshop material:
+
+https://github.com/charleygros/IMAS_MachineLearning_Workshop-Image_Analysis
+
+14:30 - 15:00
+
+Afternoon tea – provided!
+
+15:00 - 17:00
+
+Discussion/Troubleshooting/Brainstorming
+
+ 
+
+Best regards
