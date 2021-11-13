@@ -33,7 +33,6 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
-- jekyll-remote-theme
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -66,7 +65,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "All events and activities" # The post list page content
+    description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
@@ -126,7 +125,7 @@ navigation_header:
   url: /
 - title: Elements
   url: /elements/
-- title: Events
+- title: Blog
   url: /blog/
 - title: Categories
   url: /categories/
@@ -136,8 +135,8 @@ navigation_header:
   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-#- title: 
-#  url: 
+- title: Created by David Darnes
+  url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
