@@ -7,7 +7,7 @@ feature_image: "/assets/cradle_mnt.jpeg"
 excerpt: "Under Construction."
 ---
 
-Under Constructio.
+Under Construction.
 
 {% include button.html text="Slack" icon="slack" link="https://machinelearningtas.slack.com" color="#0366d6" %} {% include button.html text="Mailing list️" link=https://groups.google.com/g/machine-learning-tasmania" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=http://tasml.com" color="#0d94e7" %}
 
