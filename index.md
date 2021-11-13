@@ -1,8 +1,8 @@
 ---
 title: Join Us
 feature_text: |
-  ## Machine Learning Tasmania
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## <span style="color:white">Machine Learning Tasmania</span>
+  
 feature_image: "/assets/cradle_mnt.jpeg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
